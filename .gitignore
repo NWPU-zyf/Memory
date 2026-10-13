@@ -1,0 +1,28 @@
+# Secrets
+.env
+
+# Runtime data
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+server.log
+
+# Test payloads
+test_image_add.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
